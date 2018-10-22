@@ -1,0 +1,23 @@
+
+.slideshow ul {
+   padding:0; margin:0;
+   list-style: none;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.button-left, .button-right {
+	margin-top: 149px;
+}
+
+.button-left span:hover, .button-right span:hover {
+	cursor: pointer;
+}
+
+.img {
+    height: 300px;
+    width: 650px;
+}
